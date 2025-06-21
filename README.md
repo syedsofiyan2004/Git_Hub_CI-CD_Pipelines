@@ -378,6 +378,18 @@ This shows that our Assignment was success by Automationg our application runnin
 
 ## This is the Final Deliverable of our Assignment 
 
+Now we have to Do our Cleanup job Let's Clear all the Resources we have created using terraform
+```bash
+terraform destroy
+```
+This is delete all our Instances VPC's and everything
+
+![Screenshot 2025-06-21 203935](https://github.com/user-attachments/assets/23000b32-d620-4c30-a4f0-f979de455ec1)
+![Screenshot 2025-06-21 203956](https://github.com/user-attachments/assets/3862a4a6-5007-4a7a-8763-696364dfc42f)
+
+As we can see all 7 resources are deleted means Our Cleanup Job is also done
+
+
 # END OF ASSIGNMENT
 
 
