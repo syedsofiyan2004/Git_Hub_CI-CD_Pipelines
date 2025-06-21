@@ -354,7 +354,7 @@ After this add Following Secrets in Your Git-Hub Repository:
 
 Now we can successfully Run the Pipeline just commit the pipeline code and you will see the magic:
 
-![image](https://github.com/user-attachments/assets/f579f693-be3e-42a4-9b38-522a42a3dd6f)
+![image](https://github.com/user-attachments/assets/e12b79c2-b6ca-449a-89af-13c5e7aaa9d5)
 
 Also check whether the image is created and uploaded in Docker Hub the repository or not:
 
