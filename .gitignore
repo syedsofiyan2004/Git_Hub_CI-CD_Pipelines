@@ -1,0 +1,12 @@
+node_modules
+.git
+.github
+*.log
+secrets
+/terraform.tfvars
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.backup
+/terraform.tfstate
+/sofiyan-kp.pem
+.dockerignore
