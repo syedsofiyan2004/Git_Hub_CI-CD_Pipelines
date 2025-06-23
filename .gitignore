@@ -10,3 +10,4 @@ terraform.tfstate.backup
 /terraform.tfstate
 /sofiyan-kp.pem
 .dockerignore
+.terraform.tfstate.lock.info
