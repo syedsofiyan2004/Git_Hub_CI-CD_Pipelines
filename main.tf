@@ -96,8 +96,8 @@ resource "aws_instance" "web_server" {
 
   user_data = <<-EOF
     #!/bin/bash
-    yum update -y
-    amazon-linux-extras install docker -y
+    dnf update -y
+    dnf install -y docker
     systemctl start docker
     systemctl enable docker
     usermod -aG docker ec2-user
