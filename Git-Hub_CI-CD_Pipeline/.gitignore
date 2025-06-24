@@ -1,6 +1,5 @@
 node_modules
 .git
-.github
 *.log
 secrets
 /terraform.tfvars
