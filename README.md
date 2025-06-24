@@ -10,4 +10,4 @@
 #### This is the README.md file for GitHub CI-CD Pipeline Take home Assignment [GitHub Actions Take Home Assignment](https://github.com/syedsofiyan2004/Git_Hub_CI-CD_Pipelines/blob/main/Git-Hub_CI-CD_Pipeline/README.md)
 
 
-#### To see the Results of the Workflows of GitHub Assignment you can redirect here [Workflow Actions](https://github.com/syedsofiyan2004/Git_Hub_CI-CD_Pipelines/actions)
+#### To see the Results of the Workflows of GitHub Assignment you can redirect here [Workflow Actions](https://github.com/syedsofiyan2004/Git_Hub_CI-CD_Pipelines/actions) or just click on the Actions on tab of this repo
